@@ -1,2 +1,2 @@
-# apriori_toko_parfum
-Data mining asosiasi metode apriori toko parfum
+# apriori_bengkel
+Data mining asosiasi metode apriori bengkel
