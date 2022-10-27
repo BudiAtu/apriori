@@ -1,27 +1,19 @@
-BLOGBUGABAGI						|
-========================================================|
-https://blogbugabagi.blogspot.com			|
-IG	: instagram.com/blogbugabagi			|
-FB	: facebook.com/bugabagiblog			|
-========================================================|
-PASSWORD : blogbugabagi.blogspot.com			|
-========================================================|
-Terima kasih :) :) 					|
+					|
 ========================================================|
 ::::::::::************** CREDIT *************:::::::::::|
-INDAH MAHARANI SAFITRI					|			
+BUDI SANTOSO					|			
 ========================================================|
 							|
 ===========---//INSTALASI SOURCE CODE\\---==============|
 							|
 -Ekstrak source code					|
--Jika pakai xampp simpan folder apriori_toko_parfum	|
+-Jika pakai xampp simpan folder apriori_bengkel	|
  ke dalam folder htdocs					|
 -Buat database baru dengan nama namadatabase		|
--import file apriori_toko_parfum.sql yang ada di folder	|
+-import file bengkel.sql yang ada di folder	|
  db ke dalam database yang dibuat tadi			|
 -Buka browser lalu jalankan dengan menuliskan 		|
- localhost/apriori_toko_parfum				|
+ localhost/apriori				|
 							|
 Username: admin			Password: admin		|
 ========================================================|
